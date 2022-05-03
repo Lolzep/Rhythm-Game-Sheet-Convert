@@ -1,6 +1,6 @@
 Download sheets I need as .json
 Read the inputs from .json
-Make the calculations from "Data" sheet in Python
+Make the calculations from "Data" json in Python
 	Crucial you do not save this information
 	Calculate every time you want to look at input
 	Make sure it works
@@ -9,7 +9,7 @@ Done with Python for now lol
 Build a database in SQL
 	Holds ONLY the inputs
 Put input information into the database
-Go back to Python, change it from using .csv to the database
+Go back to Python, change it from using .json to the database
 
 STRETCH GOAL POG
 Make it so Python can insert new data (append or overwrite) (insert vs. modify)
