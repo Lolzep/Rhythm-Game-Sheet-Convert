@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 import tkinter as tk
 from tkinter import filedialog, Text
 
-
 #* .env file
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
