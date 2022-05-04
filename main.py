@@ -58,6 +58,60 @@ class Gamemode:
 		# creates the window
 		self.root.mainloop()
 
+class calculate(Gamemode):
+
+	def general(self):
+		pass
+		# TODO
+		# Has calcuations that can be shared across all gamemodes
+
+	def wacca(self):
+		pass
+		# TODO
+	
+	def iidx_sp(self):
+		pass
+		# TODO
+
+	def iidx_sp(self):
+		pass
+		# TODO
+
+	def iidx_dp(self):
+		pass
+		# TODO
+	
+	def sdvx(self):
+		pass
+		# TODO
+
+class visualize(calculate):
+	# Same format as before, but this will be used for visualizations
+	# Thinking of each definition as it's own separate page on a dashboard...
+	def general(self):
+		pass
+		# TODO
+		# Has visualizations that can be shared across all gamemodes
+
+	def wacca(self):
+		pass
+		# TODO
+	
+	def iidx_sp(self):
+		pass
+		# TODO
+
+	def iidx_sp(self):
+		pass
+		# TODO
+
+	def iidx_dp(self):
+		pass
+		# TODO
+	
+	def sdvx(self):
+		pass
+		# TODO	
 
 #* Runs everything so far
 def main():
