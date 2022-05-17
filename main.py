@@ -14,7 +14,7 @@ starting_directory = os.getenv("starting_directory")
 
 #* Color definitions
 bowiepurple = "#ddccfe"
-bowiepink = "#ff35f4"
+bowiepink = "#ffe5f4"
 bowiegreen = "#d0ffdb"
 bowieblush = "#ff7c80"
 bowiewhite = "#fdfdff"
